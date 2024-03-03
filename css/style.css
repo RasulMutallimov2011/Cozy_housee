@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+}
+
+.img{
+    max-width: 100%;
+    }
+
+.img{
+    background-image:url(img/start-screen-gradient-background.png);
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6  {
+
+    margin: 0;
+}
+   
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;  
+}
+.container {
+}
+.class__logo {
+}
+.nav__link {
+    text-decoration: none;
+    font-family: 'Futura New'; 
+    font-style: normal; 
+    font-weight: 200px; 
+    font-size: 20px;
+   line-height: 20px; 
+   
+
+}
+.nav {
+}
+.nav__list {
+    display: flex;
+    column-gap: 25px;
+}
+.nav__item {
+}
+.img-wrap {
+  padding-left: 450px;
+}
+.hero__desc {
+    display: flex;
+}
+.title {
+}
+.text {
+}
+.btn-wrap {
+    padding: 50px;
+    margin: 30px;
+    padding-left: 50px;
+}
+.btn {
+}
